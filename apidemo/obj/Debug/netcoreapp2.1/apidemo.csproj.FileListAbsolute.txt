@@ -1,0 +1,14 @@
+C:\Users\julian.pickard\source\Development\demoapi\apidemo\apidemo\bin\Debug\netcoreapp2.1\apidemo.deps.json
+C:\Users\julian.pickard\source\Development\demoapi\apidemo\apidemo\bin\Debug\netcoreapp2.1\apidemo.runtimeconfig.json
+C:\Users\julian.pickard\source\Development\demoapi\apidemo\apidemo\bin\Debug\netcoreapp2.1\apidemo.runtimeconfig.dev.json
+C:\Users\julian.pickard\source\Development\demoapi\apidemo\apidemo\bin\Debug\netcoreapp2.1\apidemo.dll
+C:\Users\julian.pickard\source\Development\demoapi\apidemo\apidemo\bin\Debug\netcoreapp2.1\apidemo.pdb
+C:\Users\julian.pickard\source\Development\demoapi\apidemo\apidemo\obj\Debug\netcoreapp2.1\apidemo.csprojAssemblyReference.cache
+C:\Users\julian.pickard\source\Development\demoapi\apidemo\apidemo\obj\Debug\netcoreapp2.1\apidemo.csproj.CoreCompileInputs.cache
+C:\Users\julian.pickard\source\Development\demoapi\apidemo\apidemo\obj\Debug\netcoreapp2.1\apidemo.RazorAssemblyInfo.cache
+C:\Users\julian.pickard\source\Development\demoapi\apidemo\apidemo\obj\Debug\netcoreapp2.1\apidemo.RazorAssemblyInfo.cs
+C:\Users\julian.pickard\source\Development\demoapi\apidemo\apidemo\obj\Debug\netcoreapp2.1\apidemo.AssemblyInfoInputs.cache
+C:\Users\julian.pickard\source\Development\demoapi\apidemo\apidemo\obj\Debug\netcoreapp2.1\apidemo.AssemblyInfo.cs
+C:\Users\julian.pickard\source\Development\demoapi\apidemo\apidemo\obj\Debug\netcoreapp2.1\apidemo.RazorTargetAssemblyInfo.cache
+C:\Users\julian.pickard\source\Development\demoapi\apidemo\apidemo\obj\Debug\netcoreapp2.1\apidemo.dll
+C:\Users\julian.pickard\source\Development\demoapi\apidemo\apidemo\obj\Debug\netcoreapp2.1\apidemo.pdb
